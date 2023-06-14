@@ -17,3 +17,5 @@ Test rebase 1
 Test rebase 2
 
 Test needs rebase 1
+
+Test doesn't need rebase 2
