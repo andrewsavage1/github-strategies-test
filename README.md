@@ -15,3 +15,5 @@ Commit on main in middle of rebase
 Test rebase 1
 
 Test rebase 2
+
+Test needs rebase 1
