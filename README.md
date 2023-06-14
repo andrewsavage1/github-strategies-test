@@ -10,6 +10,8 @@ Test merge 1
 
 Test merge 2
 
+Commit on main in middle of rebase
+
 Test rebase 1
 
 Test rebase 2
